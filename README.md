@@ -82,7 +82,7 @@ O projeto conta com um dashboard interativo desenvolvido no Power BI, permitindo
 
 As imagens das páginas do dashboard estão disponíveis na pasta `power_bi_imagens/`.
 
-O arquivo `.pbix` utilizado na construção do dashboard está disponível na pasta `powerbi/`.
+O arquivo `.pbix` utilizado na construção do dashboard está disponível na pasta `power_bi/`.
 
 ### Despesas
 
@@ -146,10 +146,6 @@ analise-dados-financeiros/
 ├── README.md
 └── LICENSE
 ```
-
-## Como executar
-
-### Python
 
 ## Como executar
 
